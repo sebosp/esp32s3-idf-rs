@@ -1,5 +1,5 @@
 {
-  "name": "esp3232s3_idf_rs",
+  "name": "esp32s3_idf_rs",
   // Select between image and build propieties to pull or build the image.
   // "image": "docker.io/espressif/idf-rust:esp32s3_latest",
   "build": {
@@ -39,6 +39,6 @@
     3333,
     8000
   ],
-  "workspaceMount": "source=${localWorkspaceFolder},target=/home/esp/esp3232s3_idf_rs,type=bind,consistency=cached",
-  "workspaceFolder": "/home/esp/esp3232s3_idf_rs"
+  "workspaceMount": "source=${localWorkspaceFolder},target=/home/esp/esp32s3_idf_rs,type=bind,consistency=cached",
+  "workspaceFolder": "/home/esp/esp32s3_idf_rs"
 }
