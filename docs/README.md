@@ -1,4 +1,4 @@
-# esp3232s3_idf_rs
+# esp32s3_idf_rs
 
 ## Dev Containers
 This repository offers Dev Containers supports for:

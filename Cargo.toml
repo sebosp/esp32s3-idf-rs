@@ -1,5 +1,5 @@
 [package]
-name = "esp3232s3-idf-rs"
+name = "esp32s3-idf-rs"
 version = "0.1.0"
 authors = ["Seb Ospina <kraige@gmail.com>"]
 edition = "2021"
