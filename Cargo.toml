@@ -26,6 +26,7 @@ embassy = ["esp-idf-svc/embassy-sync", "esp-idf-svc/critical-section", "esp-idf-
 [dependencies]
 log = { version = "0.4", default-features = false }
 esp-idf-svc = { version = "0.48", default-features = false }
+esp-wifi = { version = "0.3", features = ["esp32s3", "wifi", "esp-now", "ble"] }
 
 [build-dependencies]
 embuild = "0.31.3"
